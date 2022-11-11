@@ -1,1 +1,20 @@
 comments in css: /*hello i am comment*/
+linking html with css : <head><link href="" rel="stylesheet">
+
+body{
+font-family:xyz;
+background-color:xyz;
+font-size:3rem;
+font-style="italic";
+}
+
+cheat notes:https://frontendmasters.github.io/bootcamp/css
+
+
+img{
+boarder:10px solid green;
+}
+
+img{
+boarder:10px dotted green;
+}
