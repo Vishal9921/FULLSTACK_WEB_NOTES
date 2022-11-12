@@ -1,3 +1,4 @@
+
 comments in css: /*hello i am comment*/
 linking html with css : <head><link href="" rel="stylesheet">
 
@@ -6,10 +7,16 @@ font-family:xyz;
 background-color:xyz;
 font-size:3rem;
 font-style="italic";
+font-weight:bold;
+font-size:1.3rem;
+text-align:center;
+text-decoration:none;
+color:red;
 }
 
 cheat notes:https://frontendmasters.github.io/bootcamp/css
 
+classes for linking tag with css:<h1 class="xyz">
 
 img{
 boarder:10px solid green;
@@ -18,3 +25,24 @@ boarder:10px solid green;
 img{
 boarder:10px dotted green;
 }
+styling classes:https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values
+
+TEMORARY SHARE WEBSITE CODE PEN:https://codepen.io/
+link css:
+a:link{}
+a:visited{}
+a:hover{}
+
+<a href="xyz"class="yy">a.yy:link{}
+
+h2,h3,.xyz,a:link{}
+
+css terminology:https://frontendmasters.github.io/bootcamp/css
+note:style tag must be put under head tag
+<head><style>
+
+
+color my css:https://color.adobe.com/create/color-wheel       =====>explore
+for the above color to pick install colorzilla extenxion on chrome
+
+css validator:https://jigsaw.w3.org/css-validator/
