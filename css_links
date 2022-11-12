@@ -2,6 +2,8 @@
 comments in css: /*hello i am comment*/
 linking html with css : <head><link href="" rel="stylesheet">
 
+white-space: nowrap
+
 body{
 font-family:xyz;
 background-color:xyz;
