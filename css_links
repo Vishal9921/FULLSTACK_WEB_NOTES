@@ -5,6 +5,7 @@ linking html with css : <head><link href="" rel="stylesheet">
 white-space: nowrap;
 
 body{
+list-style-type:none;      // turn off the bullets
 font-family:xyz;
 background-color:xyz;
 background-image:url(xyz);
@@ -61,3 +62,8 @@ css validator:https://jigsaw.w3.org/css-validator/
 box layout:https://frontendmasters.github.io/bootcamp/layout  ===> margin/border/padding
 
 flexbox:https://frontendmasters.github.io/bootcamp/layout#introducing-flexbox
+
+nav li{
+background-color:red;
+
+}
