@@ -13,6 +13,7 @@ font-style="italic";
 font-weight:bold;
 font-size:1.3rem;
 text-align:center;
+justify-content:space-between;
 text-decoration:none;
 color:red;
 width:10rem;
