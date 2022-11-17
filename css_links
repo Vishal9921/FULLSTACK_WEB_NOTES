@@ -2,9 +2,32 @@
 comments in css: /*hello i am comment*/
 linking html with css : <head><link href="" rel="stylesheet">
 
+
+////css overflow refer
+properties:hidden,scroll,
+
 white-space: nowrap;
 
 body{
+border-radius:10;
+//for more about this properties google it !!!!!
+text-transform:uppercase;
+text-indent:100px;
+word-spacing:20px;
+text-decoration:underline;
+text-decoration-color:red;
+word-wrap:break-word;
+word-break:break-all;
+text-shadow:2px 2px 2px green;
+whitespace:nowrap;
+writing-mode:vertical-rl;
+
+column-count:3;
+column-gap:100px;
+
+outline-style:solid;
+outline-color:red;
+outline-offset:4px; //create gap between border and outline
 list-style-type:none;      // turn off the bullets
 font-family:xyz;
 background-color:xyz;
